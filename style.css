@@ -1,13 +1,9 @@
-/* GENERAL */
+
 
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
 }
-
-
-/* HEADER */
-
 .header {
     display: flex;
     justify-content: space-between;
@@ -39,9 +35,6 @@ body {
     border-radius: 20px;
     cursor: pointer;
 }
-
-
-/* LANDING PAGE */
 
 .landing-page {
     display: flex;
@@ -85,8 +78,6 @@ body {
     border-radius: 20px;
 }
 
-
-/* TRENDING */
 
 .trending-container {
     padding: 60px 50px;
